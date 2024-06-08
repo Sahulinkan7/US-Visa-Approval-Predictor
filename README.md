@@ -1,2 +1,2 @@
 # US-Visa-Approval-Predictor
-A machine learning base project to predict the chances of visa approval from USA embassy.
+A machine learning based project to predict the chances of visa approval from USA embassy.
