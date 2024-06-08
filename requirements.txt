@@ -1,0 +1,9 @@
+seaborn
+imblearn
+xgboost
+pandas
+numpy
+evidently==0.2.8
+pymongo
+django
+-e .
