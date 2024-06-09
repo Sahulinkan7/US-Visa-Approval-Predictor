@@ -15,9 +15,10 @@ class USvisaException(Exception):
         line_number=exc_tb.tb_lineno
         
         complete_error_message=f""" 
-        Exception occurred in script file : {file_name}
+        Exception occurred in script 
+            file name : {file_name}
             line number : {line_number}
-            error message is : {str(error_message)}
+            error message : {str(error_message)}
         """
         
         return complete_error_message
